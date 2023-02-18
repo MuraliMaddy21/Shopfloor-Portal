@@ -1,0 +1,46 @@
+.style
+{
+	font-weight: bold;
+}
+.style1
+{
+	margin-left:3rem;
+}
+
+body {
+  background-image: url('../SAP_logo.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.loginbg
+{
+
+ background-image: url(https://img.freepik.com/free-vector/team-concept-illustration_114360-678.jpg?w=996&t=st=1674142947~exp=1674143547~hmac=ab32483db9cd97ba004415a0fbc0fe28364ad168d01ac015bdc3ad2ffa342565);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
+
+.probg
+{
+
+ background-image: url(https://www.knic.co.id/uploads/6/pemilihan-lokasi-pabrik-manufaktur-yang-tepat.jpg);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+ 
+}
+
+.planbg
+{
+
+ background-image: url(https://pocketstop.com/wp-content/uploads/2021/07/Factory%20against%20blue%20cloudy%20sky-1.jpeg);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+}
